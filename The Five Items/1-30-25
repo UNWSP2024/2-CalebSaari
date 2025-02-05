@@ -8,4 +8,4 @@ print('your subtotal is:' ,subtotal)
 sales_tax = subtotal * 0.07
 print('sales tax equals:', sales_tax)
 print('the total is:', subtotal+sales_tax)
-# Ethan Collins 1/30/2025 the five items
+
